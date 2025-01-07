@@ -1,10 +1,10 @@
 # 🌟 Maria Eduarda Rosa 🌟
 
-👋 Olá! Eu sou Maria Eduarda Rosa, tenho 17 anos e sou uma novata em Tecnologia da Informação (TI). Atualmente, estou estudando TI e me aprofundando no fascinante mundo dos bancos de dados.
+👋 Olá! Eu sou Maria Eduarda Rosa, tenho 18 anos e sou uma novata em Tecnologia da Informação (TI). Atualmente, estou estudando TI e me aprofundando no fascinante mundo dos bancos de dados.
 
 ## 🚀 Sobre Mim
 
-- 🎓 **Idade:** 17 anos
+- 🎓 **Idade:** 18 anos
 - 📚 **Área de Estudo:** Tecnologia da Informação
 - 💾 **Interesses:** Banco de Dados, Análise de Dados, Desenvolvimento de Sistemas
 
